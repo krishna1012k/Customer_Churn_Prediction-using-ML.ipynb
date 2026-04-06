@@ -47,7 +47,10 @@ Instead of reacting after customers leave, businesses can **proactively identify
 📌 Add your visuals here for better impact:
 
 - 📊 EDA Graphs  
-- 📉 Confusion Matrix  
+- 📉 Confusion Matrix
+
+  <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/3c6d0d70-fe0f-40fd-8464-ed5c41b2ba36" />
+
 - 📈 Model Performance Comparison  
 
 ```bash
