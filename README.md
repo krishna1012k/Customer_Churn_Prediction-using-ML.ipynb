@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction-using-ML.ipyn# 🚀 Customer Churn Prediction using Machine Learning  
+# 🚀 Customer Churn Prediction using Machine Learning  
 ### Predict customer behavior before they leave — and turn data into retention strategies 📊
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
