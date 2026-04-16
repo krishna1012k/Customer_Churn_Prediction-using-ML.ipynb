@@ -44,7 +44,6 @@ Instead of reacting after customers leave, businesses can **proactively identify
 
 ## 📸 Screenshots / Demo
 
-📌 Add your visuals here for better impact:
 
 - 📊 EDA Graphs  
 - 📉 Confusion Matrix
